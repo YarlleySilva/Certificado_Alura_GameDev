@@ -7,6 +7,8 @@
 
 Certificado da conclusão do projeto da Imersão GameDev JavaScript, oferecido gratuitamente pela Alura.
 
+https://yarlleysilva.github.io/Certificado_Alura_GameDev/
+
 <h1 align="center">
     <img alt="" src="./assets/GameCertificado.png" width="70%"/>
 </h1>
